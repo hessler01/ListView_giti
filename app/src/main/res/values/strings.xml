@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string name="sea">خاطرات دریا</string>
+    <string name="holy">خاطرات حرم امام رضا</string>
+    <string name="drive">خاطرات رانندگی</string>
+    <string name="desert">خاطرات کویر</string>
+    <string name="mountain">خاطرات کوه</string>
+
+</resources>
